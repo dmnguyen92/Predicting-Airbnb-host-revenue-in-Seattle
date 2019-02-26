@@ -21,7 +21,7 @@ Using the [Kaggle's Airbnb Seattle dataset](https://www.kaggle.com/airbnb/seattl
 * **Host policies**: number of extra guess allowed, cancellation policy, verification from rental, etc, as well as host self-verification
 * **Pricing strategies**: price per person, cleaning fee, price surging over the year, etc.
 
-A light gradient boosting machine is used with 5-fold cross-validation and MAE loss for revenue predictions.
+A [light gradient boosting machine](https://lightgbm.readthedocs.io/en/latest/Python-Intro.html) is used with 5-fold cross-validation and MAE loss for revenue predictions.
 
 The detailed analysis can be found in this [**notebook**](https://github.com/dmnguyen92/Predicting-Airbnb-host-revenue-in-Seattle/blob/master/main.ipynb)
 
