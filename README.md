@@ -11,7 +11,7 @@
 * The code can be a core of a recommendation system that suggests pricing and policy for a new-coming host
 * The code can be give Airbnb insight information on what category of potential host to reach out for marketing
 
-<img src="images/booking_probability_show.png" width="900px" >
+<img src="images/booking_probability_show.png" width="800px" >
 
 ## The solution
 
@@ -27,6 +27,6 @@ The detailed analysis can be found in this [**notebook**](https://github.com/dmn
 
 A summary presentation can be found [**here**](https://github.com/dmnguyen92/Predicting-Airbnb-host-revenue-in-Seattle/blob/master/Presentation.pptx)
 
-<img src="images/correlation_show.png" width="900px" >
+<img src="images/correlation_show.png" width="850px" >
 
-<img src="images/feature_importance_show.png" width="900px" >
+<img src="images/feature_importance_show.png" width="850px" >
