@@ -23,7 +23,7 @@ Using the [Kaggle's Airbnb Seattle dataset](https://www.kaggle.com/airbnb/seattl
 
 A [light gradient boosting machine](https://lightgbm.readthedocs.io/en/latest/Python-Intro.html) is used with 5-fold cross-validation and MAE loss for revenue predictions.
 
-The detailed analysis can be found in this [**notebook**](https://github.com/dmnguyen92/Predicting-Airbnb-host-revenue-in-Seattle/blob/master/main.ipynb)
+The detailed analysis can be found in this [**notebook**](https://github.com/dmnguyen92/Predicting-Airbnb-host-revenue-in-Seattle/blob/master/codes/main.ipynb)
 
 A summary presentation can be found [**here**](https://github.com/dmnguyen92/Predicting-Airbnb-host-revenue-in-Seattle/blob/master/Presentation.pptx)
 
