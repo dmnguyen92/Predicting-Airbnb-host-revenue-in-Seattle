@@ -25,7 +25,7 @@ A [light gradient boosting machine](https://lightgbm.readthedocs.io/en/latest/Py
 
 The detailed analysis can be found in this [**notebook**](https://github.com/dmnguyen92/Predicting-Airbnb-host-revenue-in-Seattle/blob/master/codes/main.ipynb)
 
-A summary presentation can be found [**here**](https://github.com/dmnguyen92/Predicting-Airbnb-host-revenue-in-Seattle/blob/master/Presentation.pptx)
+A summary presentation can be found [**here**](https://github.com/dmnguyen92/Predicting-Airbnb-host-revenue-in-Seattle/blob/master/Nguyen%20Dang%20Minh%20-%20presentation.pptx)
 
 <img src="images/correlation_show.png" width="850px" >
 
