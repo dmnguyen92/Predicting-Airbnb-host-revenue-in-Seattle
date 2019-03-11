@@ -9,7 +9,7 @@
 <ins>**How does this help Airbnb?**<ins>
 * Maximizing hosts' return means maximizing Airbnb's commisions
 * The code can be a core of a recommendation system that suggests pricing and policy for a new-coming host
-* The code can be give Airbnb insight information on what category of potential host to reach out for marketing
+* The code can give Airbnb insight information on what category of potential host to reach out for marketing
 
 <img src="images/booking_probability_show.png" width="800px" >
 
